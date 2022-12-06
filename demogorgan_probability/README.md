@@ -1,11 +1,13 @@
-# distributions_v1_6_12_2022 package
+# Probability-Gaussian-Distribution
  
- some info about the package
+ These are the main files of my package:
+ 1. Generaldistribution.py
+    -this python file contains a dsitribution class (to be inherited in Gaussian and Binomial class)
+ 2. Gaussiandistribution.py
+ 3. Binomialdistribution.py
  
-# Files
-
-about the files
 
 # Installation
 
-installing the package
+command: pip install demogorgan-probability
+(ignore the term 'demogorgan', it's only for making the name unique)
