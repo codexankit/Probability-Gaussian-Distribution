@@ -11,5 +11,4 @@
 
 command: pip install demogorgan-probability
 (ignore the term 'demogorgan', it's only for making the name unique)
-
 # this was a part of my assignment in a course🙂
