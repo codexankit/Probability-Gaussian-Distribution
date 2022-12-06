@@ -1,0 +1,10 @@
+setup.py
+demogorgan_probability/Binomialdistribution.py
+demogorgan_probability/Gaussiandistribution.py
+demogorgan_probability/Generaldistribution.py
+demogorgan_probability/__init__.py
+demogorgan_probability.egg-info/PKG-INFO
+demogorgan_probability.egg-info/SOURCES.txt
+demogorgan_probability.egg-info/dependency_links.txt
+demogorgan_probability.egg-info/not-zip-safe
+demogorgan_probability.egg-info/top_level.txt
